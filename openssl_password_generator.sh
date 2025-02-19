@@ -1,2 +1,2 @@
 #!/bin/bash
- echo "Neues Passwort: $(openssl rand -base64 20)"
+echo "Neues Passwort: $(openssl rand -base64 20)"
